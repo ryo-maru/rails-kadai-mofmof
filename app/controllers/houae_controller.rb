@@ -1,0 +1,2 @@
+class HouaeController < ApplicationController
+end
